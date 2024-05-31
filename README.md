@@ -1,6 +1,9 @@
 # weatherApp  
 API를 활용한 날씨 앱  
-위치, 날짜, 시간, 온도, 날씨, AQI(대기질지수), 미세먼지, 초미세먼지를 한 눈에 볼 수 있다.
+위치, 날짜, 시간, 온도, 날씨, AQI(대기질지수), 미세먼지, 초미세먼지를 한 눈에 볼 수 있다.  
+
+## Language  
+ - <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 
 open API : https://openweathermap.org/
 
